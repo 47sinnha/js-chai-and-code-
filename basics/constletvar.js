@@ -30,6 +30,5 @@ It's always preferable to use let instead of var because, if a variable is decla
 it's still accessible outside the block.. 
 But, if a variable is declared with let inside a block, it's only accesible within that block.. 
 
-Q. What is the default keyword in javascript for storing the value?
-
+using semicolons depends on ourselves, in javascript if we want to use semicolons then we can use it, it's completely depends upon us.
 */
